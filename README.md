@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/cab-10/DevOps/_apis/build/status/Jokei95.pipelines-java?branchName=master)](https://dev.azure.com/cab-10/DevOps/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
